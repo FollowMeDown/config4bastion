@@ -1,0 +1,17 @@
+{
+  "APP_ID"   : "TEST",
+  "APP_VER"  : "0.1",
+  "APP_DEV"  : "Test Developer",
+  "CAC_PATH" : "C:\\Program Files (x86)\\Cisco\\Cisco AnyConnect Secure Mobility Client\\",
+  "KES_PATH" : "C:\\Program Files (x86)\\Kaspersky Lab\\Kaspersky Endpoint Security 10 for Windows SP2\\",
+  "_COMMENT" : "EXEC : KES | KES10SP2",
+  "KES_EXEC" : "KES10SP2",
+  "LOOP" : 100,
+  "KESW" : false,
+  "WFPC" : false,
+  "KES_PROF" :  "Update KES 10 SP2 - alle 3 Stunden",
+  "RAS_01_IP" : "127.0.0.1",
+  "RAS_0X_IP" : "127.0.0.2",
+  "MaxDiff" : 60,
+  "MinDiff" : 30
+}
